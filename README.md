@@ -1,1 +1,5 @@
 # wifibridger
+
+	WIFIBRIDGER is my new and 1st app. , Its function actually described by its name WIFI-BRIDGER thats mean it create a bridge just 2 connect ur phone or pc 2 the nearest wifi ... you obviously thinking that 'then whats new in it' but the new thing is that its function come into work when u just outside the wi-fi circle , as we all know that we can only use wifi when we r under wifi range just after wi-fi range we r unable 2 use that wi-fi facility , but now using this app. WIFIBRIDGER we can enjoy wifi facility outside the wifi range but its function is not limited 2 this it has lot of functions which i can't describe in  this README section so plz use it donate me and send m your thinking upon this app also u can send m ur new ideas however it looks complex or madness u can send m ......Bcz not just creativity but sometimes madness is a root cause of new ideas and innovations ..... HOPE this app. help u fight against wifi related problems .....
+						
+		<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<THANKYOU ALL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
